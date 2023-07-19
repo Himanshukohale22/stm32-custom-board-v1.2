@@ -15,10 +15,10 @@ Project design flow
 Layouts
 --
 
-Schematics
+* Schematics
 ---
 
-3D render
+* 3D render
 ---
 
 Reference and tools 
