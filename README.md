@@ -6,6 +6,12 @@ This repository contains the hardware design files of stm32 devlopment board. th
 Specifications
 --
 
+* Cortex M4 architecture based STM32F4 Series on board microcontroller.
+
+* Power supply.
+- USB mini-B 
+
+
 Guide to board
 --
 
