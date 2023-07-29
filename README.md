@@ -28,6 +28,15 @@ Layouts
 * Schematics
 ---
 
+SHEET 1 : 
+
+![image](https://github.com/Himanshukohale22/stm32-custom-board-v1.2/assets/114358863/c85c7ecf-0471-4226-9f5d-ae9a612a24f1)
+
+SHEET 2 :
+
+![image](https://github.com/Himanshukohale22/stm32-custom-board-v1.2/assets/114358863/ab70f297-de76-4551-9ecc-f1c190f2fb98)
+
+
 * 3D render
 ---
 
