@@ -12,8 +12,12 @@ Specifications
 
 * Cortex M4 architecture based STM32F4 Series on board microcontroller.
 
+* 
+
 * Power supply.
-- USB mini-B 
+- USB mini-B
+- External jst connector
+- programmer USB mini -B
 
 
 Guide to board
