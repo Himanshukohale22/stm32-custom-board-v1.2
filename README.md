@@ -15,9 +15,9 @@ Specifications
 * 
 
 * Power supply.
-- USB mini-B
-- External jst connector
-- programmer USB mini -B
+ - USB mini-B
+ - External jst connector
+ - programmer USB mini -B
 
 
 Guide to board
