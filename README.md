@@ -11,9 +11,10 @@ Specifications
 --
 
 * Cortex M4 architecture based STM32F4 Series on board microcontroller.
-
-* 
-
+* Small size board with 5*5 square shape.
+* With in-built Programmer and Debugger.
+* Funtionality of GPIO's,PWM,Analog,Digital signals.
+* Communication protocols - I2C,SPI,UsART,CAN . 
 * Power supply.
  - USB mini-B
  - External jst connector
